@@ -46,7 +46,7 @@ catkin_make
 
 ###提示缺少unitree_legged_msgs这个包，导致catkin_make配置失败
 
-###还会报错cd ~/catkin_ws/src/unitree_ros找不到
+###还会报错cd ~/catkin_ws/src/unitree_ros找不到（按AI提示可以解决，在附件中一并提交）
 
 #下载unitree_guide在catkin_ws/src目录下
 
